@@ -1,2 +1,2 @@
-// Platzhalter für Schritt 2: Supabase-Verbindung.
+// Platzhalter für Supabase-Verbindung.
 export {};

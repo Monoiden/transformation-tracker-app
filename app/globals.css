@@ -46,7 +46,6 @@ input, textarea {
 }
 textarea { resize: vertical; min-height: 100px; }
 .checkboxes { display: flex; flex-direction: column; gap: 8px; padding-top: 6px; }
-.checkboxes label, .check-card { color: var(--text); }
 
 .progress-grid { display: grid; gap: 14px; margin-top: 18px; }
 .progress-row { border: 1px solid var(--line); border-radius: 18px; padding: 14px; background: #fbfdff; }
