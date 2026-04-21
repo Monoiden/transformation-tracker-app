@@ -1,7 +1,7 @@
 {
   "name": "Transformation Tracker",
   "short_name": "Tracker",
-  "description": "Tracking f\u00fcr Gewicht, Ern\u00e4hrung, Training, Schlaf, Schritte und Rauchreduktion.",
+  "description": "Tracking, Analyse und Empfehlungen.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#f8fafc",

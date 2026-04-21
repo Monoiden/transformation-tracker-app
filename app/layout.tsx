@@ -3,13 +3,9 @@ import type { Metadata, Viewport } from "next";
 
 export const metadata: Metadata = {
   title: "Transformation Tracker",
-  description: "Tägliches Tracking für Gewicht, Ernährung, Training, Schlaf, Schritte und Rauchreduktion.",
+  description: "Tracking, Analyse und Empfehlungen.",
   manifest: "/manifest.json",
-  appleWebApp: {
-    capable: true,
-    statusBarStyle: "default",
-    title: "Tracker",
-  },
+  appleWebApp: { capable: true, statusBarStyle: "default", title: "Tracker" },
 };
 
 export const viewport: Viewport = {
